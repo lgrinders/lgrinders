@@ -1,4 +1,4 @@
-# 😁 Hi, I’m Landon Grinderslev
+# 🙂 Hi, I’m Landon Grinderslev
 
 I am a Front-End Developer based in Murfreesboro, Tennessee, USA. 🗽
 
